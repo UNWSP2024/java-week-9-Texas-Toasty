@@ -1,0 +1,5 @@
+Picture1 A = 85mm B = 60mm C = 30mm D = 24mm E = 22mm F = 21mm
+Picture2 A = 82mm B = 59mm C = 31mm D = 23mm E = 22mm F = 21mm
+Picture3 A = 85mm B = 61mm C = 31mm D = 25mm E = 22mm F = 22mm
+Picture4 A = 84mm B = 59mm C = 29mm D = 22mm E = 20mm F = 19mm
+Picture5 A = 85mm B = 60mm C = 29mm D = 24mm E = 22mm F = 22mm
